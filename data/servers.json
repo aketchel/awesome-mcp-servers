@@ -4409,6 +4409,25 @@
     "official": true
   },
   {
+    "name": "Sitekick CMS",
+    "url": "https://docs.sitekick.ai/working-with-our-ai-site-editor/mcp-editing",
+    "description": "Plan and improve WordPress websites with generation, previews, and browser-approved publishing; requires an eligible account and a registered OAuth client.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Sitekick",
+    "tags": [
+      "wordpress",
+      "cms",
+      "websites",
+      "oauth",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.sitekick.ai/mcp"
+    }
+  },
+  {
     "name": "helloasso-mcp",
     "url": "https://github.com/edouard-claude/helloasso-mcp",
     "description": "HelloAsso for French associations: members, event tickets, donations, payments, refunds and checkout links, covering all 36 routes of the v5 API.",
