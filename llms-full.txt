@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -3015,6 +3015,18 @@ Read-only access to a user's ORANO library: projects built from saved Reels, vid
 - Tags: memory, knowledge, video, remote
 - Category: AI, Agents, and Memory
 - Streamable HTTP endpoint: https://orano-ai-backend-1037939693300.us-central1.run.app/mcp/
+
+### Phasoric
+
+Search, read, and safely update Markdown notes in explicitly connected Phasoric knowledge vaults.
+
+- URL: https://developers.phasoric.com/mcp-client-setup
+- Language: JavaScript
+- Provider: Phasoric
+- Official: yes
+- Tags: memory, knowledge, markdown, oauth, remote
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://phasoric.com/api/mcp
 
 ### Plazmi
 
